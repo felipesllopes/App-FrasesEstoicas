@@ -19,8 +19,6 @@ const styles = StyleSheet.create({
         paddingHorizontal: 10,
         borderRadius: 10,
         marginTop: 100,
-        borderWidth: 2,
-        borderColor: 'black',
     },
     textButton: {
         fontSize: 34,
@@ -30,7 +28,7 @@ const styles = StyleSheet.create({
     modal: {
         width: '100%',
         height: '100%',
-        backgroundColor: 'red',
+        backgroundColor: 'black',
     },
 })
 

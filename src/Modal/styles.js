@@ -23,9 +23,9 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         color: 'white',
         fontSize: 20,
-        flex: 1.55,
+        flex: 1.7,
         textAlignVertical: 'bottom',
-        marginHorizontal: 3,
+        marginHorizontal: 5,
     },
     container2: {
         flex: 2,
